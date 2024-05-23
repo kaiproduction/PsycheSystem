@@ -10,9 +10,9 @@ setup(
         'requests'
     ],
     description='PsycheSystem: A library for window management, system security, password management, and file installation.',
-    author='Your Name',
-    author_email='your.email@example.com',
-    url='https://github.com/yourusername/PsycheSystem',
+    author='kai_studio',
+    author_email='diekunnazar@gmail.com',
+    url='https://github.com/kaiproduction/PsycheSystem',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
